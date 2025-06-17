@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Rebecca Van Wyck | Research Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "MSPM Capstone"
+        href: mspm_capstone/index.qmd
+      - text: "PhD"
+        href: phd/plan.qmd
+      - text: "Grants"
+        menu:
+          - text: "Proposals"
+            href: grants/proposals/
+          - text: "Funded Projects"
+            href: grants/funded-projects/
+      - text: "Publications"
+        href: publications/sample-paper.qmd
+  page-footer:
+    center: "© 2025 Rebecca Van Wyck | Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
