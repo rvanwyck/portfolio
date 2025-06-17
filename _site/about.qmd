@@ -2,7 +2,7 @@
 format: html
 ---
 
-# Welcome
+Welcome
 
 Welcome to my professional research portfolio. This site documents my evolving work in project management, research enterprise development, and community-engaged scholarship.
 
