@@ -29,4 +29,3 @@ format:
   html:
     theme: cosmo
     toc: true
-    toc-depth: 2
