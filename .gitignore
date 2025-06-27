@@ -49,3 +49,9 @@ po/*~
 rsconnect/
 
 /.quarto/
+
+# recommended by ChatGPT 250626
+_site/
+index_files/
+*.html
+*.pdf
